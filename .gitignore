@@ -2,3 +2,4 @@ venv/
 .env
 reddit_data.json
 posts_to_label.csv
+posts_to_label1.csv
